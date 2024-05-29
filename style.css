@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/earlyaccess/amiri.css);
+.amiri{font-family: 'Amiri', serif;}
+
+
+.color-editnew{
+    background-color:#F8F4E1;
+    
+}
+
+body, a{
+    text-decoration: none;
+}
+
+.highlight {
+    background-color: #D2B48C;
+}
+
+#daftar-surah {
+    background-color: #AF8F6F; 
+    color: #4B3621; 
+    padding: 10px; 
+    border-radius: 10px; 
+  }
+
+#daftar-surah .list-group-item {
+    background-color: #F8F4E1;
+    border: 1px solid #4B3621; 
+    color: #4B3621; 
+    margin-bottom: 5px; 
+    border-radius: 5px; 
+  }
+
+#daftar-surah .list-group-item:hover {
+    background-color: #E6E6D1; 
+  }
+
+.highlight {
+    background-color: #D2B48C;
+  }
+
+.title-daftar-surah {
+    color: #4B3621;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
